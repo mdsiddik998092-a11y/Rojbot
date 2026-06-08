@@ -1,11 +1,3 @@
-"""
-টেলিগ্রাম রোজ বট - Python
-Bot Token: 8646107305:AAE-BAzeCvmT5-kZwlAwYgfL9xjwHIh61fc
-Admin ID: 8709449192
-Channel: https://t.me/+rVFJ134jGbEyOTRl
-Channel ID: -1003512383446
-"""
-
 import logging
 import json
 import os
@@ -32,8 +24,8 @@ from telegram.ext import (
 from telegram.error import TelegramError
 
 # ─────────────────── CONFIG ────────────────────
-BOT_TOKEN   = "8646107305:AAE-BAzeCvmT5-kZwlAwYgfL9xjwHIh61fc"
-ADMIN_ID    = 8709449192
+BOT_TOKEN   = "8778653130:AAET-V8qti39v_pcAFsgQ7eqJMafyhzFWxs"
+ADMIN_ID    = 8528931469
 CHANNEL_ID  = -1003512383446
 CHANNEL_URL = "https://t.me/+rVFJ134jGbEyOTRl"
 
