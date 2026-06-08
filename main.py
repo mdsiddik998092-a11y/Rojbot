@@ -1,3 +1,11 @@
+"""
+টেলিগ্রাম রোজ বট - Python
+Bot Token: 8646107305:AAE-BAzeCvmT5-kZwlAwYgfL9xjwHIh61fc
+Admin ID: 8709449192
+Channel: https://t.me/+rVFJ134jGbEyOTRl
+Channel ID: -1003512383446
+"""
+
 import logging
 import json
 import os
